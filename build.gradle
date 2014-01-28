@@ -5,7 +5,7 @@ apply plugin: 'idea'
 group = "surajbab"
 version = "0.1"
 
-mainClassName="surajbab.Main" // Change it to your main class
+mainClassName="surajbab.Expression" // Change it to your main class
 
 repositories { mavenCentral() }
 
